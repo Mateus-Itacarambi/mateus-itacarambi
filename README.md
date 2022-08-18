@@ -1,16 +1,12 @@
 ## :speech_balloon: Olá, meu nome é Mateus Itacarambi!
 
-<br>
-
-<img src="https://github.com/Mateus-Itacarambi/mateus-itacarambi/blob/main/programming.svg" min-width="500px" max-width="500px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Mateus-Itacarambi/mateus-itacarambi/blob/main/programming.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
 
 ---
 
 <p align="left">Tenho 20 anos, atualmente estou trabalhando como <strong>Técnico de HelpDesk</strong> mas pretendo seguir na área da programação. Também estou fazendo faculdade de <strong>Tecnologias em Sistemas para Internet</strong> no Instituto Federal de Brasília (IFB).</p>
-
----
 
 <p><strong>Minhas redes socias:</strong> :arrow_heading_down:</p>
 
@@ -26,5 +22,3 @@
 </p>  
 
 ---
-
-<br>
