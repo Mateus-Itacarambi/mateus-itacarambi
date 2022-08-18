@@ -1,5 +1,7 @@
 ## :speech_balloon: Olá, meu nome é Mateus Itacarambi!
 
+<br>
+
 <img src="https://github.com/Mateus-Itacarambi/mateus-itacarambi/blob/main/programming.svg" min-width="500px" max-width="500px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
