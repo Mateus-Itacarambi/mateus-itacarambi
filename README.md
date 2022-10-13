@@ -6,7 +6,7 @@
 
 ---
 
-<p align="left">Tenho 20 anos, atualmente estou trabalhando como <strong>Técnico de HelpDesk</strong> mas pretendo seguir na área da programação. Também estou fazendo faculdade de <strong>Tecnologias em Sistemas para Internet</strong> no Instituto Federal de Brasília (IFB).</p>
+<p align="left">Tenho 21 anos, atualmente estou trabalhando como <strong>Técnico de HelpDesk</strong> mas pretendo seguir na área da programação. Também estou fazendo faculdade de <strong>Tecnologias em Sistemas para Internet</strong> no Instituto Federal de Brasília (IFB).</p>
 
 <p><strong>Minhas redes socias:</strong> :arrow_heading_down:</p>
 
